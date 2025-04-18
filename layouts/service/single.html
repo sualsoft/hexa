@@ -1,0 +1,23 @@
+
+<link rel="stylesheet" href="/css/style.css">
+
+<div class="services" data-aos="fade-right">
+    <div class="container">
+        <div class="service-content">
+            <button class="close-btn" onclick="window.location.href='/service/';">Close</button>
+            <div class="service-title">
+                <h3>{{ .Params.name }}</h3>
+                <hr class="hr">
+                <p class="para">{{ .Params.description }}</p>
+            </div>
+            <h1>Instructions</h1>
+            <div class="stacks">
+                <ol>
+                    {{ range .Params.stacks }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>

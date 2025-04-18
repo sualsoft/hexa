@@ -4,8 +4,22 @@
   <url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/service/digital/</loc>
+  </url><url>
+    <loc>http://localhost:1313/service/intelligence/</loc>
+  </url><url>
+    <loc>http://localhost:1313/service/mobile/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/service/design/</loc>
+  </url><url>
+    <loc>http://localhost:1313/service/quality/</loc>
+  </url><url>
+    <loc>http://localhost:1313/service/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/service/web/</loc>
   </url>
 </urlset>
