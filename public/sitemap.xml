@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/digital/</loc>
+    <loc>https://example.org/service/digital/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/intelligence/</loc>
+    <loc>https://example.org/service/intelligence/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/mobile/</loc>
+    <loc>https://example.org/service/mobile/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/design/</loc>
+    <loc>https://example.org/service/design/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/quality/</loc>
+    <loc>https://example.org/service/quality/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/</loc>
+    <loc>https://example.org/service/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/web/</loc>
+    <loc>https://example.org/service/web/</loc>
   </url>
 </urlset>
