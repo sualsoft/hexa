@@ -4,7 +4,8 @@ accessible: false
 order: 5
 name: "geminithinking"
 path: "/service/intelligence"
-category: "mcp-server-axiom-js"
+category: "Gemini Thinking Server"
+author: "ThetaBird"
 description: "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."
 stacks:
   - "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."
