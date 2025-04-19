@@ -91,7 +91,7 @@ body{
   }
   
   .container {
-    max-width: 900px;
+    padding: 20px;
     width: 100%;
   }
   
