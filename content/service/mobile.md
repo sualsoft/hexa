@@ -5,7 +5,8 @@ order: 2
 name: "update_workflow"
 path: "/service/mobile"
 banner_title: "Mobile App Development"
-category: "mcp-server-axiom-js"
+category: "MCP Calculate Server"
+author: "ThetaBird"
 description: "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."
 stacks:
 stacks:

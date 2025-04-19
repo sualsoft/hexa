@@ -149,3 +149,10 @@ body{
   hr.hr{
     border-top: 1px dotted #bbb;
   }
+  .header-text{
+    font-size: 30px;
+    line-height: 0.2;
+  }
+  .author-text{
+    font-size: 20px;
+  }

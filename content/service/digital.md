@@ -4,8 +4,9 @@ accessible: true
 order: 6
 name: "sequentialthinking_tools"
 path: "/service/digital"
-category: "mcp-server-axiom-js"
+category: "MCP Sequential Thinking"
 banner_title: "Digital Marketing "
+author: "611711Dark"
 description: "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."
 stacks:
   - "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."

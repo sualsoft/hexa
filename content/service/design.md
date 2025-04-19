@@ -5,6 +5,7 @@ order: 3
 name: "queryApl"
 category: "mcp-server-axiom-js"
 path: "/service/design"
+author: "ThetaBird"
 description: "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."
 stacks:
   - "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."

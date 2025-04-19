@@ -5,7 +5,8 @@ order: 1
 name: "sequentialthinking_tools"
 path: "/service/web"
 banner_title: "Web Development"
-category: "mcp-server-axiom-js"
+category: "MCP Sequential Thinking"
+author: "xinzhongyouhai"
 description: "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."
 stacks:
   - "Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information."
