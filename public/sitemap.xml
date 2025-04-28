@@ -155,6 +155,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/guide/shortcodes/others/</loc>
   </url><url>
+    <loc>http://localhost:1313/service/design/</loc>
+  </url><url>
+    <loc>http://localhost:1313/service/</loc>
+  </url><url>
     <loc>http://localhost:1313/showcase/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/guide/shortcodes/steps/</loc>
