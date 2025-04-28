@@ -1,40 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>type /service in url for search page on My New Hugo Site</title>
+    <title>My New Hugo Site – Hextra Theme</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in type /service in url for search page on My New Hugo Site</description>
+    <description>Recent content in Hextra Theme on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Digital marketing service page</title>
-      <link>http://localhost:1313/service/digital/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/service/digital/</guid><description>Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information.</description></item>
-    <item>
-      <title>Intelligence service page</title>
-      <link>http://localhost:1313/service/intelligence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/service/intelligence/</guid><description>Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information.</description></item>
-    <item>
-      <title>Mobile service page</title>
-      <link>http://localhost:1313/service/mobile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/service/mobile/</guid><description>Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information.</description></item>
-    <item>
-      <title>Product design service page</title>
-      <link>http://localhost:1313/service/design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/service/design/</guid><description>Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information.</description></item>
-    <item>
-      <title>Quality assurance service page</title>
-      <link>http://localhost:1313/service/quality/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/service/quality/</guid><description>Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information.</description></item>
-    <item>
-      <title>Web service page</title>
-      <link>http://localhost:1313/service/web/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/service/web/</guid><description>Analyze and solve complex problems by breaking them into adaptable steps. Recommends MCP tools for each stage, providing rationale and execution order to maintain context and filter irrelevant information.</description></item>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
   </channel>
 </rss>
