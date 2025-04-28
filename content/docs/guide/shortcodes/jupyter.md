@@ -74,6 +74,6 @@ You can also use a remote notebook by providing the URL to the notebook file. Fo
 
 {{< callout type="info" >}}The following is an example of a notebook file that is included in the project assets folder.{{< /callout >}}
 
-{{% jupyter "example.ipynb" %}}
+
 
 [page-bundles]: https://gohugo.io/content-management/page-bundles/#leaf-bundles

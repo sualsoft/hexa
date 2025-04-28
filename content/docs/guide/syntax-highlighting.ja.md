@@ -42,7 +42,7 @@ def say_hello():
 
 ### ファイルへのリンク
 
-{{< new-feature version="v0.9.2" >}}
+
 
 `base_url`属性を使用して、ファイル名と組み合わせてリンクを生成するベースURLを提供できます。
 

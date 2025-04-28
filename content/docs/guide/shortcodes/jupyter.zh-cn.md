@@ -74,6 +74,6 @@ math: true
 
 {{< callout type="info" >}}以下是包含在项目 assets 文件夹中的笔记本文件示例。{{< /callout >}}
 
-{{% jupyter "example.ipynb" %}}
+
 
 [page-bundles]: https://gohugo.io/content-management/page-bundles/#leaf-bundles

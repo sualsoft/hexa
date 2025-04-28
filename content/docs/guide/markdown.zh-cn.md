@@ -37,7 +37,7 @@ Hugo 支持使用 [Markdown](https://en.wikipedia.org/wiki/Markdown) 语法来�
 
 ### 提示框
 
-{{< new-feature version="v0.9.0" >}}
+
 
 提示框是基于引用块语法的 Markdown 扩展，可用于强调关键信息。
 支持 [GitHub 风格的提示框](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)。

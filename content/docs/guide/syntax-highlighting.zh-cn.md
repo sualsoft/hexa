@@ -42,7 +42,7 @@ def say_hello():
 
 ### 文件链接
 
-{{< new-feature version="v0.9.2" >}}
+
 
 你可以使用 `base_url` 属性提供一个基础 URL，它将与文件名结合生成一个链接。
 

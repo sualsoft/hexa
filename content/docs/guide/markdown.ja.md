@@ -37,7 +37,7 @@ Hugoは、テキストのフォーマットやリストの作成などに[Markdo
 
 ### アラート
 
-{{< new-feature version="v0.9.0" >}}
+
 
 アラートは、ブロッククォート構文に基づくMarkdown拡張で、重要な情報を強調するために使用できます。
 [GitHubスタイルのアラート](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)がサポートされています。

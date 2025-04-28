@@ -42,7 +42,7 @@ def say_hello():
 
 ### Link to File
 
-{{< new-feature version="v0.9.2" >}}
+
 
 You can use the `base_url` attribute to provide a base URL that will be combined with the file name to generate a link.
 

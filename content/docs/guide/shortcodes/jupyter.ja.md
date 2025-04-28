@@ -74,6 +74,6 @@ math: true
 
 {{< callout type="info" >}}以下は、プロジェクトの assets フォルダに含まれているノートブックファイルの例です。{{< /callout >}}
 
-{{% jupyter "example.ipynb" %}}
+
 
 [page-bundles]: https://gohugo.io/content-management/page-bundles/#leaf-bundles
